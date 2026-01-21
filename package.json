@@ -4,6 +4,6 @@
     "type": "module",
     "dependencies": {
         "@cloudflare/puppeteer": "^1.0.0",
-        "fflate": "^0.8.4"
+        "fflate": "^0.8.2"
     }
 }
