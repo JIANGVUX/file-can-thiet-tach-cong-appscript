@@ -3,7 +3,9 @@ main = "src/index.js"
 compatibility_date = "2026-01-21"
 compatibility_flags = ["nodejs_compat"]
 
+# Browser Rendering binding (Cloudflare Dashboard -> Bindings -> Browser Rendering -> MYBROWSER)
 browser = { binding = "MYBROWSER" }
 
+# Bạn có thể set biến này trong Dashboard (Settings -> Variables) cũng được.
 [vars]
-APPS_SCRIPT_URL = "DAN_LINK_APPS_SCRIPT_EXEC_O_DAY"
+APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbycVh87DHgYb-WJdVjC9QnTXS4p4qUR5mGUWWBirO4s0SbfDAsrvELjMC371av--Vdv/exec"
