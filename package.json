@@ -1,0 +1,9 @@
+{
+    "name": "tachfileconglaodong",
+    "private": true,
+    "type": "module",
+    "dependencies": {
+        "@cloudflare/puppeteer": "^1.0.0",
+        "fflate": "^0.8.2"
+    }
+}

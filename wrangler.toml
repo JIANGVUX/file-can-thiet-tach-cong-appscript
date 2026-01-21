@@ -1,0 +1,9 @@
+name = "tachfileconglaodong"
+main = "src/index.js"
+compatibility_date = "2026-01-21"
+compatibility_flags = ["nodejs_compat"]
+
+browser = { binding = "MYBROWSER" }
+
+[vars]
+APPS_SCRIPT_URL = "DAN_LINK_APPS_SCRIPT_EXEC_O_DAY"
