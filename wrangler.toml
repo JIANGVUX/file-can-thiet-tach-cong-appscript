@@ -8,4 +8,4 @@ browser = { binding = "MYBROWSER" }
 
 # Bạn có thể set biến này trong Dashboard (Settings -> Variables) cũng được.
 [vars]
-APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbycVh87DHgYb-WJdVjC9QnTXS4p4qUR5mGUWWBirO4s0SbfDAsrvELjMC371av--Vdv/exec"
+APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbybn1z3JRxDtU08LVb3BAShY-KtWL-o5ydBJNQdWSldCc4kGNVYb_u_WoGWouealwM/exec"
